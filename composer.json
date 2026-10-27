@@ -1,0 +1,13 @@
+{
+    "name": "lab8/bai3-gui-email-nhieu-nguoi",
+    "description": "Lab 8 - Gui email cho nhieu nguoi bang Gmail SMTP va PHPMailer",
+    "type": "project",
+    "require": {
+        "php": "^8.0",
+        "phpmailer/phpmailer": "^6.9"
+    },
+    "config": {
+        "vendor-dir": "PHPMailer",
+        "sort-packages": true
+    }
+}
